@@ -209,7 +209,7 @@ Open [http://localhost:5173](http://localhost:5173) and sign in with the admin a
 
 ## 👤 Author
 
-**[Your Name]** · [LinkedIn](https://www.linkedin.com/in/chandana1821/) · [Email](mailto:anumulachandana18@gmail.com)
+**[Anumula Chandana]** · [LinkedIn](https://www.linkedin.com/in/chandana1821/) · [Email](mailto:anumulachandana18@gmail.com)
 
 ## 📄 License
 
